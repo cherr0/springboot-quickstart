@@ -1,0 +1,5 @@
+com/rubypaper/jdbc/util/JDBCConnectionManager.class
+META-INF/spring-configuration-metadata.json
+com/rubypaper/jdbc/config/BoardAutoConfiguration.class
+com/rubypaper/App.class
+com/rubypaper/jdbc/config/JDBCConnectionManagerProperties.class
